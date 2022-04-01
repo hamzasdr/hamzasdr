@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👋 I am Hamza Sadder  
 - 🔭 I have 1+ years of experince working as a software engineer
 - 🌱 I am currently focusing on learning DSA and System Design
-- ⚡ In my free time I enojoy solving problems and learning new skills.
+- ⚡ In my free time I enjoy solving problems and learning new skills.
 <br />
 
 <h2 align="center">Quick Overview 📈</h2>
