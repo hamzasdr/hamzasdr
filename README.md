@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h1>About Me 📌</h1>
 
 - 👋 I am Hamza Sadder  
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
  -->
 
 <br /><br />
+
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
   <a href = "mailto:hamzah.sadder@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
