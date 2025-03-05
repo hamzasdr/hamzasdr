@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90) -->
 
 <!--
 **hamzasdr/hamzasdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1>About Me 📌</h1>
 
 - 👋 I am Hamza Sadder  
-- 🔭 I have 1+ years of experince working as a software engineer
+- 🔭 I have 1+ years of experience working as a software engineer
 - 🌱 I am currently focusing on learning DSA and System Design
 - ⚡ In my free time I enjoy solving problems and learning new skills.
 <br />
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/hamzasdr/count.svg"></img>
 </div>
  -->
+
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
@@ -54,5 +56,4 @@ Here are some ideas to get you started:
  
 </p>
 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
